@@ -29,3 +29,7 @@
 > JavaScript can not access the local filesystem, or interact with the operating system. It can manipulate HTML or CSS.
 
 > Node.js can access the local filesystem, and interact with the operating system. It can not manipuate HTML or CSS.
+
+---
+
+### Basic Syntax & Features
