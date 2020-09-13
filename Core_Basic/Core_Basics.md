@@ -33,3 +33,8 @@
 ---
 
 ### Basic Syntax & Features
+
+> ```JS script
+> let userName = 'Max';
+> const totalUsers = 15;
+> ```
