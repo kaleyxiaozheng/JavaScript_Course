@@ -38,3 +38,15 @@
 > let userName = 'Max';
 > const totalUsers = 15;
 > ```
+
+If I want to sequence asynchornous thins that happen in my program
+
+Promise is an object, so the idea of it is that the object can be in a certain state
+
+> pending  
+> fulfilled  
+> rejected
+
+Then I can use `then()` - a function that receives a function to be executed when it has been fulfilled. `catch()` - a function that receives a function to be executed when it has been rejected
+
+> I have this function which returns a promise and the promise is handled when it is fulfilled something when there is an error the error is displayed
